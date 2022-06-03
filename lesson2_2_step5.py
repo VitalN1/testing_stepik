@@ -15,5 +15,6 @@ try:
     # не забываем оставить пустую строку в конце файла
     time.sleep(10)
     browser.close()
+
 except:
     browser.close()
